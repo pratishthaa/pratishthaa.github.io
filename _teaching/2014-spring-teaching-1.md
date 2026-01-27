@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "SENG 550 — Scalable Data Analytics (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Calgary"
+location: "Calgary, AB, Canada"
+date: 2024-09-01
+permalink: /teaching/seng550-scalable-data-analytics/
+excerpt: "TA support for big data / scalable analytics topics; tutorials, grading, and lab support."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I supported **SENG 550 (Scalable Data Analytics)**, a course focused on large-scale (“big data”) analysis, scalable programming paradigms, and analytics frameworks.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+**My role**
+- **Lab support** during hands-on sessions
+- Led **tutorials** (concept review + problem-solving)
+- **Graded** assignments and provided feedback to help students improve
+- Prepared and refined **support materials** (notes, walkthroughs, and example solutions)
