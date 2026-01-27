@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "University of Calgary"
 location: "Calgary, AB, Canada"
-date: 2024-09-01
+date: Fall'2024
 permalink: /teaching/ensf480-principles-of-software-design/
 excerpt: "TA lab hours + grading support for systematic software design methods and modeling."
 ---
