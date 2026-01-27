@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a multidisciplinary software developer from **Calgary, Alberta**. I moved here from India. I recently completed my **MSc in Software Engineering at the University of Calgary (fully funded)**, where I worked under the supervision of **Dr Diwakar Krishnamurthy**. I did my undergraduate degree in **Computer Science and Engineering** in India (**BTech, Banasthali Vidyapith**).
+I’m a multidisciplinary software developer from Calgary, Alberta. I moved here from India. I recently completed my **MSc in Software Engineering** at the **University of Calgary (fully funded)**, where I worked under the supervision of **Dr Diwakar Krishnamurthy**. I did my undergraduate degree in **Computer Science and Engineering** in India (BTech, Banasthali Vidyapith).
 
-Over the past few years, I’ve focused on building **applied, end-to-end systems**—especially where data is messy and the output needs to be reliable. My core strengths are in **applied development (XR Devices, Apps)**, **data-driven modeling**, and **machine learning deployment**: turning models into usable tools through **REST APIs**, validating behavior with **Postman**, and designing workflows that are testable, measurable, and maintainable.
+Over the past few years, I’ve focused on building **applied, end-to-end systems**—especially where data is messy and the output needs to be reliable. My core strengths are in **applied development (XR Devices, Apps)**, **data-driven modeling**, and **machine learning deployment**: turning models into usable tools through RESTful APIs, validating behavior with **Postman**, and designing workflows that are testable, measurable, and maintainable.
 
 In graduate research with **[ETHEREAL Research Lab](https://www.etherealresearchlab.ca)**, I worked at the intersection of **HCI, XR accessibility technologies, and statistical modeling**—building interaction systems and the supporting pipelines to evaluate them honestly in real use, not just clean demos. I’m motivated by work that blends human impact with technical rigor: building things people can use, and backing decisions with evidence.
 
