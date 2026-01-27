@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "ENCM 369 — Computer Organization (Teaching Assistant)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+venue: "University of Calgary"
+location: "Calgary, AB, Canada"
+date: 2024-09-01
+permalink: /teaching/encm369-computer-organization/
+excerpt: "TA lab support + tutorials + grading for computer organization and low-level systems concepts."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I supported **ENCM 369 (Computer Organization)**, covering foundational systems topics like CPU organization, memory, instruction sets, assembly-level concepts, and I/O.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+**My role**
+- **Lab support** to help students debug and understand low-level concepts
+- Ran **tutorials** focused on strengthening fundamentals and exam readiness
+- **Graded** coursework with clear, actionable feedback
+- Prepared **tutorial/lab materials** to make concepts more approachable
