@@ -16,8 +16,6 @@ In graduate research with **[ETHEREAL Research Lab](https://www.etherealresearch
 Selected Experience
 ======
 
-> *(If your theme supports a timeline component, keep this as is; otherwise it still reads cleanly.)*
-
 ### 2023 – 2025 · Research Assistant — University of Calgary (ETHEREAL Research Lab)
 - Built XR interaction systems and the data workflow around them (session logging → cleaning → evaluation).
 - Worked with time-series hand-tracking / interaction data and developed scoring + validation methods.
@@ -44,10 +42,4 @@ I’ve contributed to open-source both as a **mentor** and a **contributor**—r
 
 Let’s connect
 
-If you’d like to collaborate or chat, feel free to reach out via email or LinkedIn.
-
-**More details:**  
-- → **Projects / Portfolio:** /projects  
-- → **Publications:** /publications  
-- → **Resume/CV:** /cv  
-- → **Extracurriculars:** /extracurriculars  
+If you’d like to collaborate or chat, feel free to reach out via email or LinkedIn. For the full picture, head to the tabs above—Projects, Publications, CV, and Extracurriculars.
