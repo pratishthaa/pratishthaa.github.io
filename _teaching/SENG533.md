@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "University of Calgary"
 location: "Calgary, AB, Canada"
-date: 2024-01-01
+date: Winter'25
 permalink: /teaching/seng533-software-performance-evaluation/
 excerpt: "TA support for performance analysis/testing/scalability topics; tutorials and grading."
 ---
