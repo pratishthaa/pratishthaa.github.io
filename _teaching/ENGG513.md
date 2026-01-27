@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "University of Calgary"
 location: "Calgary, AB, Canada"
-date: 2023-09-01
+date: Winter'24
 permalink: /teaching/engg513-engineers-in-society/
 excerpt: "TA grading support for ethics, responsibility, and professional practice topics."
 ---
