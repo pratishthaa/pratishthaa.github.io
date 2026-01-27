@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "University of Calgary"
 location: "Calgary, AB, Canada"
-date: 2024-09-01
+date: Winter'25
 permalink: /teaching/encm369-computer-organization/
 excerpt: "TA lab support + tutorials + grading for computer organization and low-level systems concepts."
 ---
