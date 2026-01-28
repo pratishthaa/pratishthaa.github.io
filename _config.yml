@@ -235,7 +235,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  extracurriculars:
+  extracuricular:
     output: true
     permalink: /:collection/:path/
 
@@ -299,7 +299,7 @@ defaults:
       # extracuricular
   - scope:
       path: ""
-      type: extracurriculars
+      type: extracuricular
     values:
       layout: single
       author_profile: false
