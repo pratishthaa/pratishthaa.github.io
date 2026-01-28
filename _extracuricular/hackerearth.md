@@ -1,7 +1,7 @@
 ---
 title: "HackerEarth — Banasthali Vidyapith Chapter (Graphic Designer)"
-collection: extracurriculars
-permalink: /extracurriculars/hackerearth/
+collection: extracuricular
+permalink: /extracuricular/hackerearth/
 author_profile: false
 share: false
 excerpt: "Created event creatives and promotional assets for chapter workshops and activities."
