@@ -1,7 +1,7 @@
 ---
 title: "Leanin — Graphic Designer → Design Lead → Circle Head"
-collection: extracurriculars
-permalink: /extracurriculars/leanin/
+collection: extracuricular
+permalink: /extracuricular/leanin/
 author_profile: false
 share: false
 excerpt: "Designed social + event creatives, led design direction, and later supported chapter leadership as Circle Head."
