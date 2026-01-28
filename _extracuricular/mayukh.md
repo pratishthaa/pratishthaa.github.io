@@ -1,7 +1,7 @@
 ---
 title: "Mayukh — Workshop Coordinator"
-collection: extracurriculars
-permalink: /extracurriculars/mayukh/
+collection: extracuricular
+permalink: /extracuricular/mayukh/
 author_profile: false
 share: false
 excerpt: "Coordinated 20+ workshops for ~15,000 students; handled logistics, promotions, and led a 15-person team."
