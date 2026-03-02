@@ -2,7 +2,6 @@
 title: "Banking Customer Analytics (SQL Server + Python + Power BI)"
 collection: portfolio
 permalink: /portfolio/banking-case-study/
-date: 2026-03-02
 excerpt: "End-to-end mini project: SQL Server → Power BI dashboard + Python EDA (segmentation, correlations, plots)."
 thumbnail: /images/Banking-dash.jpeg
 github_url: https://github.com/pratishthaa/Banking-Case-Study
