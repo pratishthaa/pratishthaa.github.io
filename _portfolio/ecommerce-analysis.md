@@ -2,7 +2,6 @@
 title: "E-Commerce Delivery Analysis (Excel → SQL → Python → Power BI)"
 collection: portfolio
 permalink: /portfolio/ecommerce-analysis/
-date: 2026-03-02
 excerpt: "End-to-end delivery performance analysis: Excel checks, SQL analytics layer, Python EDA/modeling, Power BI dashboard."
 thumbnail: /images/EComm-dash.jpeg
 github_url: https://github.com/pratishthaa/ECommerce_Analysis
