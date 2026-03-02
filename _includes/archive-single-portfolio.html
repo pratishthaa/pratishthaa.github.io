@@ -1,31 +1,33 @@
 {% include base_path %}
 
-<article class="portfolio-item" style="display:flex; gap:18px; margin:22px 0; align-items:flex-start;">
+<article class="portfolio-item" style="margin:26px 0;">
+  <!-- Title -->
+  <h3 style="margin:0 0 10px 0;">
+    <a href="{{ post.github_url }}" target="_blank" rel="noopener">
+      {{ post.title }}
+    </a>
+  </h3>
+
+  <!-- Image under title -->
   {% if post.header.teaser %}
-    <a href="{{ post.github_url }}" target="_blank" rel="noopener"
-       style="flex:0 0 220px; max-width:220px;">
-      <img src="{{ base_path }}{{ post.header.teaser }}"
-           alt="{{ post.title }}"
-           style="width:220px; height:auto; border-radius:10px; display:block;" />
+    <a href="{{ post.github_url }}" target="_blank" rel="noopener" style="display:block; margin-bottom:12px;">
+      <img
+        src="{{ base_path }}{{ post.header.teaser }}"
+        alt="{{ post.title }}"
+        style="width:100%; max-width:720px; height:auto; border-radius:12px; display:block;"
+      />
     </a>
   {% endif %}
 
-  <div style="flex:1;">
-    <h3 style="margin:0 0 6px 0;">
-      <a href="{{ post.github_url }}" target="_blank" rel="noopener">
-        {{ post.title }}
-      </a>
-    </h3>
+  <!-- Description -->
+  {% if post.excerpt %}
+    <p style="margin:0 0 10px 0;">{{ post.excerpt }}</p>
+  {% endif %}
 
-    {% if post.excerpt %}
-      <p style="margin:0 0 10px 0;">{{ post.excerpt }}</p>
-    {% endif %}
-
-    {% if post.tech_stack %}
-      <p style="margin:0; opacity:0.85;">
-        <strong>Tech:</strong>
-        {{ post.tech_stack | join: " · " }}
-      </p>
-    {% endif %}
-  </div>
+  <!-- Tech stack -->
+  {% if post.tech_stack %}
+    <p style="margin:0; opacity:0.85;">
+      <strong>Tech:</strong> {{ post.tech_stack | join: " · " }}
+    </p>
+  {% endif %}
 </article>
