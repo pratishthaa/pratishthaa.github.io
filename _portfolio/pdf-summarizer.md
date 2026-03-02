@@ -2,7 +2,6 @@
 title: "PDF Summarizer (RAG-based Document Q&A)"
 collection: portfolio
 permalink: /portfolio/pdf-summarizer/
-date: 2026-03-02
 excerpt: "PDF summarization + Q&A app using retrieval (RAG). Streamlit UI, FastAPI backend, Qdrant vector store."
 thumbnail: /images/PDF_Sumarizer_Portal.jpeg
 github_url: https://github.com/pratishthaa/PDF-Summarizer
