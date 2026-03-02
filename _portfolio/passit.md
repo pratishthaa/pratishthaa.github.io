@@ -2,12 +2,14 @@
 title: "PASSit"
 collection: portfolio
 date: 2026-03-02
-excerpt: "Password manager app for generating and saving strong passwords with a simple UI."
+excerpt: "University-only social platform built with the MERN stack. Users sign up with university email domains, join clubs/newsletters, and share posts in a community feed."
 github_url: https://github.com/pratishthaa/PASSit
 header:
   teaser: /images/passit.png
 tech_stack:
-  - Python
-  - Tkinter
-  - SQLite
+  - MongoDB
+  - Express.js
+  - React
+  - Node.js
+  - Domain-restricted Auth (university emails)
 ---
