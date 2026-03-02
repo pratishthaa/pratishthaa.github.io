@@ -1,38 +1,15 @@
 ---
-title: "Banking Customer Analytics (SQL Server + Python + Power BI)"
+title: "Banking Case Study"
 collection: portfolio
-permalink: /portfolio/banking-case-study/
-excerpt: "End-to-end mini project: SQL Server → Power BI dashboard + Python EDA (segmentation, correlations, plots)."
-thumbnail: /images/Banking-dash.jpeg
+date: 2026-03-02
+excerpt: "Customer analytics case study with SQL + Python EDA and a Power BI dashboard to highlight trends, segments, and KPIs."
 github_url: https://github.com/pratishthaa/Banking-Case-Study
-readme_raw_url: https://raw.githubusercontent.com/pratishthaa/Banking-Case-Study/main/README.md
+header:
+  teaser: /images/Banking-dash.jpeg
 tech_stack:
   - SQL Server
-  - Python
+  - Python (Jupyter, Pandas)
   - Power BI
 ---
 
-End-to-end project connecting SQL Server to Power BI and running Python EDA on the same dataset. :contentReference[oaicite:3]{index=3}
-
-**Tech stack:** SQL Server, Python (Jupyter), Power BI. :contentReference[oaicite:4]{index=4}
-
-**GitHub:** <a href="{{ page.github_url }}" target="_blank" rel="noopener">View repository</a>
-
-## README (auto-loaded)
-<div id="readme" style="margin-top: 1rem;">Loading README…</div>
-
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script>
-(async function () {
-  try {
-    const url = "{{ page.readme_raw_url }}";
-    const res = await fetch(url);
-    if (!res.ok) throw new Error("Failed to load README");
-    const md = await res.text();
-    document.getElementById("readme").innerHTML = marked.parse(md);
-  } catch (e) {
-    document.getElementById("readme").innerHTML =
-      "Could not load README right now. Please use the GitHub link above.";
-  }
-})();
-</script>
+<!-- This page is intentionally minimal because clicks go directly to GitHub. -->
